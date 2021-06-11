@@ -1,0 +1,8 @@
+- 👋 Hi, I’m `Rares Ailincai`
+- 👀 I’m interested in 
+  - `NodeJS`, `TypeScript`, `MVVM`, `Message Queue`, 
+  - `K8S`, `Docker`, `React`, `MobX`, `REST`, `Redis` 
+  - `Redux`, `ExpressJS`, `Back-End`, `MongoDB`
+  - `PostgreSQL`, `SSE (Server-Sent Events)`
+- 🌱 I’m currently learning `Message Queue`
+- 📫 [LinkedIn Profile](https://www.linkedin.com/in/rares-ailincai-3339441a5/)
