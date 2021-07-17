@@ -4,5 +4,5 @@
   - `K8S`, `Docker`, `React`, `MobX`, `REST`, `Redis` 
   - `Redux`, `ExpressJS`, `Back-End`, `MongoDB`
   - `PostgreSQL`, `SSE (Server-Sent Events)`
-- 🌱 I’m currently learning `Message Queue`
+- 🌱 I’m currently learning `NestJS`
 - 📫 [LinkedIn Profile](https://www.linkedin.com/in/rares-ailincai-3339441a5/)
