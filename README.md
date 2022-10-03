@@ -6,7 +6,7 @@
   - `PostgreSQL`, `SSE (Server-Sent Events)`
   - `Data Migration Specialist`, `NestJS`
   - `IoT` `Rasppbery Pi`, `ESP-AT`, `Neo4j`
-  - `RxJs`, `Prisma`
+  - `RxJs`, `Prisma`, `Pact`, `Contract Testing`
 - 🌱 I’m currently learning `GraphQL`
 - 📫 [LinkedIn Profile](https://www.linkedin.com/in/rares-ailincai-3339441a5/)
 - ☕️ [Buy me a coffee](https://www.paypal.com/donate/?hosted_button_id=5GM8SZ2YNVK5Q)
