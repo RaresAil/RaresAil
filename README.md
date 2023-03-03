@@ -1,4 +1,4 @@
-- 👋 Hi, I’m `Rares Ailincai`
+- 👋 Hi, I’m `Nicoale-Rares Ailincai`
 - 👀 I’m interested in 
   - `NodeJS`, `TypeScript`, `MVVM`, `Message Queue`
   - `K8S`, `Docker`, `React`, `MobX`, `REST`, `Redis` 
@@ -6,7 +6,8 @@
   - `PostgreSQL`, `SSE (Server-Sent Events)`
   - `Data Migration Specialist`, `NestJS`
   - `IoT` `Rasppbery Pi`, `ESP-AT`, `Neo4j`
-  - `RxJs`, `Prisma`, `Pact`, `Contract Testing`
-- 🌱 I’m currently learning `GraphQL`
+  - `RxJs`, `Prisma`, `Pact`, `Contract Testing`, 
+  - `GraphQL`, `Cloudflare Workers`
+- 🌱 I’m currently learning `Cloudflare Workers`
 - 📫 [LinkedIn Profile](https://www.linkedin.com/in/rares-ailincai-3339441a5/)
 - ☕️ [Buy me a coffee](https://revolut.me/nicolanuyi)
