@@ -1,3 +1,6 @@
+![Banner](https://github.com/RaresAil/RaresAil/assets/47503490/a7c7e813-6125-41a8-8c39-6b0e6214c57a)
+
+
 - 👋 Hi, I’m `Nicoale-Rares Ailincai`
 - 👀 I’m interested in 
   - `NodeJS`, `TypeScript`, `MVVM`, `Message Queue`
