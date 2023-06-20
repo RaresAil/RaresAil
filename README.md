@@ -11,6 +11,7 @@
   - `IoT` `Rasppbery Pi`, `ESP-AT`, `Neo4j`
   - `RxJs`, `Prisma`, `Pact`, `Contract Testing`, 
   - `GraphQL`, `Cloudflare Workers`, `WebAuthN`
+  - `tailwindcss`, `Playwright`, `GraphQL Code Generator`
 - 🌱 I’m currently learning `WebAuthN`
 - 📫 [LinkedIn Profile](https://www.linkedin.com/in/rares-ailincai-3339441a5/)
 - ☕️ [Buy me a coffee](https://revolut.me/nicolanuyi)
