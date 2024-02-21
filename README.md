@@ -17,3 +17,5 @@
 - 🌱 I’m currently learning `Rust` and `Bun`
 - 📫 [LinkedIn Profile](https://www.linkedin.com/in/rares-ailincai-3339441a5/)
 - ☕️ [Buy me a coffee](https://revolut.me/nicolanuyi)
+
+<a href="https://app.daily.dev/raresdevelopmentsolutions"><img src="https://api.daily.dev/devcards/v2/S4TmK57u18L2xSF8cNZsH.png?type=default&r=amw" width="356" alt="N. Rares Ailincai's Dev Card"/></a>
