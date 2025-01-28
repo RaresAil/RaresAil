@@ -13,8 +13,8 @@
   - `RxJs`, `Prisma`, `Pact`, `Contract Testing`
   - `GraphQL`, `Cloudflare Workers`, `WebAuthN`
   - `tailwindcss`, `Playwright`, `GraphQL Code Generator`
-  - `Rust`, `Bun.sh`, `Tauri`, `Workers AI`
-- 🌱 I’m currently learning `Tauri` and `Workers AI`
+  - `Rust`, `Bun.sh`, `Go`, `Workers AI`, `NATS`
+- 🌱 I’m currently learning `Go`
 - 📫 [LinkedIn Profile](https://www.linkedin.com/in/rares-ailincai-3339441a5/)
 - ☕️ [Buy me a coffee](https://revolut.me/nraresailincai)
 - 📈 Founder of [WeGrowTech](https://wegrowtech.io)
